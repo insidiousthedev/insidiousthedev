@@ -6,7 +6,12 @@ Hello, I am Nightmare. I won't tell my real name cuz no need for it lol. I am a 
 
 # Socials
 Here's my socials:
-[Discord Bio](https://discord.bio/Nightmare69)
+
+- Discord: nightmarenotfound#5284
+- [Discord Bio](https://discord.bio/Nightmare69)
+- [Instagram](https://instagram.com/meiznightmare)
+- [Twitter](https://twitter.com/dafakeNightmare)
+- [GitHub](https://github.com/FaKeNiGhTmArE69)
 
 # Tools
 
