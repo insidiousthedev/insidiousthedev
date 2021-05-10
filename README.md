@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! 👋
+
+# About Me
+
+Hello, I am Nightmare. I won't tell my real name cuz no need for it lol. I am a 14 y/o student (8th grade). I am a passionate app/game developer who uses Python, JavaScript, and TypeScript mostly. I am decent at App and Game development, and meh at Website and development. I am planning to make a website and start blogging to make money xD. 
+
+# Socials
+Here's my socials:
+[Discord Bio](https://discord.bio/Nightmare69)
 
 # Tools
 
@@ -7,6 +15,8 @@
 # Tech
 
 ![](https://img.shields.io/badge/Laptop:-HP-NoteBook-2122TU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CPU:-Intel-Core-i3-2350m-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/GPU:-Intel-HD-3000-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/RAM:-4GB-DDR3-2133MHz-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+
+# 
 
 
 [![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaKeNiGhTmArE69)](https://github.com/anuraghazra/github-readme-stats)
