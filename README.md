@@ -2,7 +2,7 @@
 
 # About Me
 
-Hello, I am Nightmare. I won't tell my real name cuz no need for it lol. I am a 14 y/o student (8th grade). I am a passionate app/game developer who uses Python, JavaScript, and TypeScript mostly. I am decent at App and Game development, and meh at Website and development. I am planning to make a website and start blogging to make money xD. 
+Hello, I am Nightmare. I won't tell my real name cuz no need for it lol. I am a 14 y/o student (8th grade). I am a passionate app/game developer who uses Python, JavaScript, and TypeScript mostly. I am decent at App and Game development, and meh at Website development. I am planning to make a website and start blogging to make money xD. 
 
 # Socials
 Here's my socials:
