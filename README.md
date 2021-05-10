@@ -20,7 +20,7 @@ Here's my socials:
 
 # Tech
 
-![](https://img.shields.io/badge/Laptop:-HP-NoteBook-2122TU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CPU:-Intel-Core-i3-2350m-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/GPU:-Intel-HD-3000-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/RAM:-4GB-DDR3-2133MHz-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Laptop:-HP-NoteBook-2122TU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CPU:-Intel-Core-i3-2350m-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GPU:-Intel-HD-3000-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/RAM:-4GB-DDR3-2133MHz-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
 # 
 
