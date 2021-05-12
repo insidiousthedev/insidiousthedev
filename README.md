@@ -13,6 +13,7 @@ Here's my socials:
 - [Instagram](https://instagram.com/meiznightmare)
 - [Twitter](https://twitter.com/dafakeNightmare)
 - [GitHub](https://github.com/FaKeNiGhTmArE69)
+- EMail: nottherealnightmare69@gmail.com
 
 # Tools
 
@@ -25,4 +26,4 @@ Here's my socials:
 # 
 
 
-[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaKeNiGhTmArE69)](https://github.com/anuraghazra/github-readme-stats)
+Nightmare's GitHUb stats:[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaKeNiGhTmArE69)](https://github.com/anuraghazra/github-readme-stats)
