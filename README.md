@@ -26,4 +26,4 @@ Here's my socials:
 # 
 
 
-Nightmare's GitHUb stats:[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaKeNiGhTmArE69)](https://github.com/anuraghazra/github-readme-stats)
+Nightmare's GitHUb stats:[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmxre69)](https://github.com/anuraghazra/github-readme-stats)
