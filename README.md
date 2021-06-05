@@ -15,15 +15,24 @@ Here's my socials:
 - [GitHub](https://github.com/FaKeNiGhTmArE69)
 - EMail: nottherealnightmare69@gmail.com
 
-# Tools
-
-![](https://img.shields.io/badge/OS:-Windows10-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor:-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code:-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code:-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code:-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
 # Tech
 
-![](https://img.shields.io/badge/Laptop:-HP-NoteBook-2122TU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CPU:-Intel-Core-i3-2350m-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GPU:-Intel-HD-3000-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/RAM:-4GB-DDR3-2133MHz-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+### Here is all the pieces of tech I use:
+- CPU: Intel Core i3-2350m
+- GPU: (Integrated) Intel HD 3000
+- RAM: 4GB DDR3 2133Mhz
+- STORAGE: 500GB SATA 3Gb/s HDD
+- DISPLAY: 1366x768 TN Panel
+- OS: Windows 10 Pro
+- KEYBOARD: IDK it's a random keyboard which isn't mechanical ;-;
+- MOUSE: IDK it's a random mouse with 2 buttons (excluding the scrollwheel)
+- MOUSEPAD: A random notebook
+- HEADPHONES: iBall Immerso B5
+- IDE: Visual Studio Code
+- CONSOLE: Windows PowerShell
 
 # 
 
+### Nightmare's GitHub stats:
 
-Nightmare's GitHUb stats:[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmxre69)](https://github.com/anuraghazra/github-readme-stats)
+[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmxre69)](https://github.com/anuraghazra/github-readme-stats)
