@@ -27,9 +27,9 @@ Here's my socials:
 - KEYBOARD: IDK it's a random keyboard which isn't mechanical ;-;
 - MOUSE: IDK it's a random mouse with 2 buttons (excluding the scrollwheel)
 - MOUSEPAD: A random notebook
-- HEADPHONES: iBall Immerso B5
-- IDE: Visual Studio Code
-- CONSOLE: Windows PowerShell
+- HEADPHONES: [iBall Immerso B5](https://www.iball.co.in/Product/Technology-Accessories/Headsets/Clarity-Headsets/Immerso-B5/61545)
+- IDE: V[isual Studio Code](https://code.visualstudio.com)
+- CONSOLE: [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
 
 # 
 
