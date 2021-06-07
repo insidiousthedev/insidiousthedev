@@ -18,10 +18,10 @@ Here's my socials:
 # Tech
 
 ### Here is all the pieces of tech I use:
-- [CPU: Intel Core i3-2350m](https://ark.intel.com/content/www/us/en/ark/products/53438/intel-core-i3-2350m-processor-3m-cache-2-30-ghz.html)
-- [GPU: (Integrated) Intel HD 3000](https://www.notebookcheck.net/Intel-HD-Graphics-3000.37948.0.html)
+- CPU: [Intel Core i3-2350m](https://ark.intel.com/content/www/us/en/ark/products/53438/intel-core-i3-2350m-processor-3m-cache-2-30-ghz.html)
+- GPU: [(Integrated) Intel HD 3000](https://www.notebookcheck.net/Intel-HD-Graphics-3000.37948.0.html)
 - RAM: 4GB DDR3 2133Mhz
-- STORAGE: 500GB SATA 3Gb/s 5400RPM HDD
+- STORAGE: [500GB SATA 3Gb/s 5400RPM HDD](https://www.amazon.in/Toshiba-2-5-inch-Laptop-5400rpm-MQ01ABD050V/dp/B0100ZM5QG/ref=sr_1_5?dchild=1&keywords=wd+blue+500gb+sata+3gbs+5400rpm+hdd&qid=1623033694&sr=8-5)
 - DISPLAY: 1366x768 TN Panel
 - OS: Windows 10 Pro
 - KEYBOARD: IDK it's a random keyboard which isn't mechanical ;-;
