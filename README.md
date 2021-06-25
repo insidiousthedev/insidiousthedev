@@ -12,7 +12,7 @@ Here's my socials:
 - [Discord Bio](https://discord.bio/Nightmare69)
 - [Instagram](https://instagram.com/meiznightmare)
 - [Twitter](https://twitter.com/dafakeNightmare)
-- [GitHub](https://github.com/FaKeNiGhTmArE69)
+- [GitHub](https://github.com/nightmxrethedev)
 - EMail: nottherealnightmare69@gmail.com
 
 # Tech
