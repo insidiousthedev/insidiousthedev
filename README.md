@@ -8,7 +8,7 @@ Hello, I am Nightmare. I won't tell my real name cuz no need for it lol. I am a 
 
 Here's my socials:
 
-- Discord: nightmarenotfound#5284
+- Discord: nightmxrethedev5284
 - [Discord Bio](https://discord.bio/Nightmare69)
 - [Instagram](https://instagram.com/meiznightmare)
 - [Twitter](https://twitter.com/dafakeNightmare)
