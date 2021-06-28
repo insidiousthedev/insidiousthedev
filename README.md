@@ -28,11 +28,11 @@ Here's my socials:
 - MOUSE: IDK it's a random mouse with 2 buttons (excluding the scrollwheel)
 - MOUSEPAD: A random notebook
 - HEADPHONES: [iBall Immerso B5](https://www.iball.co.in/Product/Technology-Accessories/Headsets/Clarity-Headsets/Immerso-B5/61545)
-- IDE: [Visual Studio Code](https://code.visualstudio.com)
+- EDITOR: [Visual Studio Code](https://code.visualstudio.com)
 - CONSOLE: [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
 
 # 
 
 ### Nightmare's GitHub stats:
 
-[![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmxre69)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmxrethedev)](https://github.com/anuraghazra/github-readme-stats)
