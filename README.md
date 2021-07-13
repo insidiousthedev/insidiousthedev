@@ -1,6 +1,8 @@
-# Hello there! I am nightmxre <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hello there! nightmxre here. <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 ## I'm a Passionate Software and Web Developer
+
+### Check out my [Website](https://nightmxrethedev.github.io) and please give me feedback on [Discord](https://discord.com/users/757543315301466145) or [Create a Discussion](https://github.com/nightmxrethedev/nightmxrethedev.github.io/discussions/categories/feedback) in the [GitHub Repository](https://github.com/nightmxrethedev/nightmxrethedev.github.io)
 
 ### Browsers 
 ![GOOGLE CHROME](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
@@ -55,7 +57,7 @@ Gmail: nottherealnightmare69@gmail.com <br>
 ## CoDM Stuff
 [RealGods Clan Discord Server](https://discord.gg/RealGods) <br>
 <b>Real Gods Clan is a Tier 2 Clan which has been working in CoDM Industry since December 2019 and we have 12 successful lineups so far from NA, EU and Asia Region. We assure you will get the best experience working with us and our management team, what you need to worry is how to perform well, because results and rewards will surely come if you are with us!!!</b> <br><br>
-My In Game Name: яG×Nightmxre
+My In Game Name: яG×Nightmxre <br>
 My UID: too lazy to add it lmao
 
 
