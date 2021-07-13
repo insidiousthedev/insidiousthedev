@@ -1,38 +1,70 @@
-### Hello there! 👋
+# Hi there, I'm Simpleboy353 <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-# About Me
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-Hello, I am Nightmare. I won't tell my real name cuz no need for it lol. I am a student (8th grade). I am a passionate app and discord bot developer who uses Python and JavaScript mostly. I can make apps, discord bots, and websites. I am currently working on my website, which is supposed to be hosted on github. I only play COD: Mobile cuz my laptop is, um I don't need to tell just scroll down.
+## I'm a Discord Bot Developer
 
-# Socials
+- 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
+- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://infinitybot.tk/invite)
+- 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
+- 😄 Pronouns: He/Him
 
-Here's my socials:
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simpleboy353)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMB8dTPh8u)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Unlikely-Agent)
 
-- [Discord](https://discord.com/users/757543315301466145)
-- [Discord Bio](https://discord.bio/Nightmare69)
-- [Instagram](https://instagram.com/meiznightmare)
-- [Twitter](https://twitter.com/dafakeNightmare)
-- [GitHub](https://github.com/nightmxrethedev)
-- EMail: nottherealnightmare69@gmail.com
+---
 
-# Tech
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Here is all the pieces of tech I use:
-- CPU: [Intel Core i3-2350m](https://ark.intel.com/content/www/us/en/ark/products/53438/intel-core-i3-2350m-processor-3m-cache-2-30-ghz.html)
-- GPU: [(Integrated) Intel HD 3000](https://www.notebookcheck.net/Intel-HD-Graphics-3000.37948.0.html)
-- RAM: 4GB DDR3 2133Mhz
-- STORAGE: [500GB SATA 3Gb/s 5400RPM HDD](https://www.amazon.in/Toshiba-2-5-inch-Laptop-5400rpm-MQ01ABD050V/dp/B0100ZM5QG/ref=sr_1_5?dchild=1&keywords=wd+blue+500gb+sata+3gbs+5400rpm+hdd&qid=1623033694&sr=8-5)
-- DISPLAY: 1366x768 TN Panel
-- OS: [Windows 10 Pro](https://www.microsoft.com/en-in/d/windows-10-pro/df77x4d43rkt?activetab=pivot%3aoverviewtab)
-- KEYBOARD: IDK it's a random keyboard which isn't mechanical ;-;
-- MOUSE: IDK it's a random mouse with 2 buttons (excluding the scrollwheel)
-- MOUSEPAD: A random notebook
-- HEADPHONES: [iBall Immerso B5](https://www.iball.co.in/Product/Technology-Accessories/Headsets/Clarity-Headsets/Immerso-B5/61545)
-- EDITOR: [Visual Studio Code](https://code.visualstudio.com)
-- CONSOLE: [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
+### Spotify Playing 🎧
 
-# 
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31zbzlualz4gpxod7apvdbt4ffk4)
 
-### Nightmare's GitHub stats:
+---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmxrethedev)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
+🌆 Daytime    145 commits    █████████░░░░░░░░░░░░░░░░   37.56% 
+🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98%
+```
+<!--END_SECTION:waka-->
+
+
+---
+
+### Frameworks and Languages
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://whatwg.org/multipage)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org)
+[![Java](https://img.shields.io/badge/JAVA-FF6C37?style=for-the-badge&logo=Java&logoColor=white)](https://java.com)
+[![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
+
+### OS and Cloud Services
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
+[![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com)
+
+### Browsers and IDE
+[![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
+
+### Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleboy353)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
