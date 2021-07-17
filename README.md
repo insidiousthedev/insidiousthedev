@@ -1,6 +1,6 @@
 # Hello there! nightmxre here. <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## I'm a Passionate Software and Web Developer
+## I'm a Passionate Discord Bot, Software and Web Developer
 
 ### Check out my [Website](https://nightmxrethedev.github.io) and please give me feedback on [Discord](https://discord.com/users/757543315301466145) or [Create a Discussion](https://github.com/nightmxrethedev/nightmxrethedev.github.io/discussions/categories/feedback) in the [GitHub Repository](https://github.com/nightmxrethedev/nightmxrethedev.github.io)
 
