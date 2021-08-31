@@ -58,9 +58,8 @@ Gmail: nottherealnightmare69@gmail.com <br>
 [Reddit](https://reddit.com/u/nightmxrethedev)
 
 ## CoDM Stuff
-[RealGods Clan Discord Server](https://discord.gg/RealGods) <br>
-<b>Real Gods Clan is a Tier 2 Clan which has been working in CoDM Industry since December 2019 and we have 12 successful lineups so far from NA, EU and Asia Region. We assure you will get the best experience working with us and our management team, what you need to worry is how to perform well, because results and rewards will surely come if you are with us!!!</b> <br><br>
-My In Game Name: яG×Nightmxre <br>
+
+My In Game Name: nightmxre;-; <br>
 My UID: too lazy to add it lmao
 
 
