@@ -19,11 +19,12 @@ const Insidious = {
     askMeAbout: ["discord", "web dev", "code", "tech", "vscode"]
     socials: {
         discord: "Insidious#6969",
-        github: "Insidious",
+        github: "insidiousthedev",
         instagram: "insidiousthedev",
-        dev: "Insidious",
+        devto: "Insidious",
         mail: "insidiousthedev69@gmail.com",
         codmobile: "Insidious;-;",
+        valorant: "Insidious69#1753",
     }
 };
 ```
