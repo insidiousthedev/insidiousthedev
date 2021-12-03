@@ -23,7 +23,7 @@ const Insidious = {
         instagram: "insidiousthedev",
         devto: "Insidious",
         mail: "insidiousthedev69@gmail.com",
-        codmobile: "Insidious;-;",
+        codmobile: "私はひどいです",
         valorant: "Insidious69#1753",
     }
 };
