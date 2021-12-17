@@ -18,11 +18,11 @@ const Insidious = {
     },
     askMeAbout: ["discord", "web dev", "code", "tech", "vscode"]
     socials: {
-        discord: "Insidious#6969",
+        discord: "Insidious_#0699",
         github: "insidiousthedev",
         instagram: "insidiousthedev",
         devto: "Insidious",
-        mail: "insidiousthedev69@gmail.com",
+        mail: "insidious699@protonmail.com",
         codmobile: "私はひどいです",
         valorant: "Insidious69#1753",
     }
