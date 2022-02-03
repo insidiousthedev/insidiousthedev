@@ -27,7 +27,7 @@ All my links @ https://insidious699.carrd.co because yes I'm lazy to make myself
 
 ## Dev Card | daily.dev
 
-<a href="https://app.daily.dev/insidious699"><img src="https://api.daily.dev/devcards/7472cf69314a47dcac1aafb99b74b405.png?r=m4b" width="400" alt="insidious699's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/insidiousthedev/insidiousthedev/blob/master/devcard.svg" width="400" alt="Insidious' DevCard"/></a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=insidiousthedev&label=Visitors+Count&color=brightgreen)
