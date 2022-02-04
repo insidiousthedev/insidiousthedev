@@ -3,8 +3,8 @@ A developer who writes code and it works sometimes. <br>
 An extremely introverted high school student from India. <br>
 Mastered the art of laziness and procrastination. <br>
 I............type.........fast.......I guess. <br>
-Loves pretty much everything related to tech, anime & manga, music and games. <br>
-Games I play are Minecraft, osu! and Genshin Impact. Oh, and Visual Studio Code. <br>
+Loves pretty much everything related to tech, anime, manga, music and games. <br>
+Games I play are Minecraft, osu! and Valorant. Oh, and Visual Studio Code. <br>
 I spend my free time (12/24hrs) writing code, doing stuff on Discord, watching anime or playing games (I listen to music pretty much all day cuz I can't live without it.) <br>
 <br>
 All my links @ https://insidious699.carrd.co because yes I'm lazy to make myself a portfolio or something. <br>
