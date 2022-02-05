@@ -1,4 +1,9 @@
+# Hi, I'm Insidious <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 # 💫About Me :
+<table>
+  <tr>
+    <td valign="center">
 A developer who writes code and it works sometimes. <br>
 An extremely introverted high school student from India. <br>
 Mastered the art of laziness and procrastination. <br>
@@ -7,8 +12,14 @@ Loves pretty much everything related to tech, anime, manga, music and games. <br
 Games I play are Minecraft, osu! and Valorant. Oh, and Visual Studio Code. <br>
 I spend my free time (12/24hrs) writing code, doing stuff on Discord, watching anime or playing games (I listen to music pretty much all day cuz I can't live without it.) <br>
 <br>
-All my links @ https://insidious699.carrd.co because yes I'm lazy to make myself a portfolio or something. <br>
-<br>
+All my links @ https://insidious699.carrd.co because yes I'm lazy to make myself a portfolio or something. 
+
+<td>   
+  <a href="https://app.daily.dev/insidious699"><img src="https://github.com/insidiousthedev/insidiousthedev/blob/master/devcard.svg" width="400" alt="Insidious' DevCard"/></a>
+    </td>
+  </tr>
+  </table>
+  
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.com/users/853865815080960011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insidiousthedev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/notinsidious699) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/insidious_699) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/insidious699) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCRRCRYClkQPKLQBAg4rdayA) 
 
